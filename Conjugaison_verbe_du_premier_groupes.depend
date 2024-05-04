@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714834395 source:f:\cours c\conjugaison_verbe_du_premier_groupes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
